@@ -39,10 +39,10 @@ The internship was undertaken at **Carnot Research Pvt. Ltd.**, an IIT Delhi-inc
 
 | Document | Format | Description | Link |
 |---|---|---|---|
-| 📄 Internship Report | PDF | Detailed report on the internship, AgenticOS project, methodology, challenges, and outcomes | [View](./SUMMER%20INTERNSHIP%20REPORT.pdf) |
-| 📊 Internship Presentation | PDF | Summary presentation of the internship project and work completed | [View](./Internship%20Presentation.pdf) |
-| 📊 Internship Presentation | PPTX | Editable source presentation of the internship work | [View](./Internship%20Presentation.pptx) |
-| 🏅 Completion Certificate | PDF | Official internship completion certificate issued by the organization | [View](./Internship%20Completion%20Certificate.pdf) |
+| 📄 Internship Report | PDF | Detailed report on the internship, AgenticOS project, methodology, challenges, and outcomes | [View](./MuditAgrawal_INTERNSHIP_REPORT.pdf) |
+| 📊 Internship Presentation | PDF | Summary presentation of the internship project and work completed | [View](./Mudit_Agrawal_Internship_Presentation.pdf) |
+| 📊 Internship Presentation | PPTX | Editable source presentation of the internship work | [View](./Mudit_Agrawal_Internship_Presentation.pptx) |
+| 🏅 Completion Certificate | PDF | Official internship completion certificate issued by the organization | [View](./Mudit_Agrawal_Carnot_Internship_Certificate.pdf) |
 
 ---
 
@@ -133,6 +133,8 @@ B.Tech CSE (AI & ML) — Semester 7 — Section 4CSE1 — CS-2341718
 🏫 IILM University, Greater Noida
 
 🔗 GitHub: [github.com/muditagrawal-alt](https://github.com/muditagrawal-alt)
+
+🔗 LinkedIn: [linkedin.com/in/mudit-agrawal-167610318](https://www.linkedin.com/in/mudit-agrawal-167610318/)
 
 ---
 
